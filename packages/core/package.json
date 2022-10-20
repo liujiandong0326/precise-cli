@@ -5,7 +5,10 @@
   "author": "liujd2 <liujd2@lenovo.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/index.js",
+  "bin": {
+    "precise-cli": "lib/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
