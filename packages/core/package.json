@@ -1,6 +1,6 @@
 {
   "name": "@precise-cli/core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "liujd2 <liujd2@lenovo.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@precise-cli/utils": "0.0.0"
+    "@precise-cli/utils": "^1.0.0"
   }
 }
